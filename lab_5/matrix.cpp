@@ -41,3 +41,7 @@ Matrix  mat_add (Matrix mat1,Matrix mat2){
 		}}
 	return final;
 }
+
+// problem 3: multiplying
+
+
